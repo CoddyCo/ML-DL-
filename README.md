@@ -20,7 +20,7 @@ The dataset used in this project is sourced from the paper's author on GitHub: [
 ### 3. Model 2: Pretrained Universal Sentence Encoder
 ### 4. Model 3: Character-Level Convolutional Neural Network
 ### 5. Model 4: Multimodal Model (Token + Character)
-### 6. Model 5: Quadra Model (Token + Character + Positional Embedding(line number embedding + total lines embedding)
+### 6. Model 5: Quadra Model (Token + Character + Positional Embedding(line number embedding + total lines embedding))
 
 ## For each model:
 - Dataset preparation
