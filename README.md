@@ -1,6 +1,7 @@
 # ML-DL-
 This Repo Contains all projects related to Machine Learning specifically Based on Deep Learning Algorithms.
-#1)
+
+# 1)
 # MedSectAI - Enhancing Medical Research Paper Readability with NLP
 
 ## Description
@@ -8,7 +9,7 @@ MedSectAI is a project aimed at improving the readability and understanding of m
 
 ## Dataset
 The dataset used in this project is sourced from the paper's author on GitHub: [PubMed-RCT](https://github.com/Franck-Dernoncourt/pubmed-rct). The dataset includes multiple files such as `train.txt`, `dev.txt`, and `test.txt`. These files were preprocessed to ensure they meet the model’s input requirements.
-#for faster experimentation 10 or 20 percent dataset is generally used in some experiment even 10 percent of this smaller dataset is used for fitting.
+# for faster experimentation 10 or 20 percent dataset is generally used in some experiment even 10 percent of this smaller dataset is used for fitting.
 # Helper functions for preparing data, creating vectorizers, and building models are defined.
 
 ## Modeling Experiments
@@ -28,8 +29,8 @@ The dataset used in this project is sourced from the paper's author on GitHub: [
 - Training and validation
 - Metrics calculation and visualizationare implemented systematically.
 
-##Results 
-Here only F1 score is shown for Complete Result analysis Read the code.( ###For 20 percent Dataset)
+## Results: 
+Here only F1 score is shown for Complete Result analysis Read the code.( ### For 20 percent Dataset).
 
    Model            F1 Score
 1. Model 0:          0.6989
