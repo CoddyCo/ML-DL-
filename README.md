@@ -9,12 +9,12 @@ MedSectAI is a project aimed at improving the readability and understanding of m
 
 ## Dataset
 The dataset used in this project is sourced from the paper's author on GitHub: [PubMed-RCT](https://github.com/Franck-Dernoncourt/pubmed-rct). The dataset includes multiple files such as `train.txt`, `dev.txt`, and `test.txt`. These files were preprocessed to ensure they meet the model’s input requirements.
-# for faster experimentation 10 or 20 percent dataset is generally used in some experiment even 10 percent of this smaller dataset is used for fitting.
-# Helper functions for preparing data, creating vectorizers, and building models are defined.
+for faster experimentation 10 or 20 percent dataset is generally used in some experiment even 10 percent of this smaller dataset is used for fitting.
+Helper functions for preparing data, creating vectorizers, and building models are defined.
 
 ## Modeling Experiments
-### --- Deep Learning Models ---
-### The deep learning models (Models 0-5) are trained sequentially.
+--- Deep Learning Models ---
+Models 0-5) are trained sequentially.
 
 ### 1. Model 0: Naive Base Model
 ### 2. Model 1: Token-based Conv1D
